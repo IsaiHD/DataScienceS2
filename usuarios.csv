@@ -1,0 +1,143 @@
+ID_Usuario,Edad,Genero,Ubicacion,ID_Publicacion
+1,25,Femenino,West Ashley,151
+3,55,Masculino,West Warrenside,38
+4,26,Masculino,East April,259
+5,57,Masculino,Jacksonmouth,207
+6,36,Masculino,North Chadberg,42
+7,46,Masculino,South Jennifer,33
+8,54,Masculino,Stephaniechester,495
+9,65,Femenino,Lake Sydney,356
+10,53,Femenino,Christineside,452
+11,41,Femenino,Kennethberg,109
+12,45,Femenino,Torreston,495
+13,52,Femenino,Harryland,154
+14,51,Femenino,East Erinbury,153
+15,31,Masculino,Mariaberg,167
+16,29,Masculino,Delacruzburgh,370
+17,56,Masculino,Port Charlesstad,122
+18,42,Masculino,New Ashley,176
+19,34,Masculino,Hardyland,405
+20,20,Femenino,West Haroldside,15
+21,51,Masculino,Johnsonberg,431
+22,38,Femenino,Barbarabury,104
+23,48,Femenino,East Ryanchester,168
+24,26,Femenino,Lopezmouth,16
+25,62,Femenino,Wileytown,256
+26,21,Masculino,Fowlerborough,418
+27,31,Femenino,Lake Tracyview,249
+29,66,Masculino,New Deborah,267
+30,20,Masculino,East Ashley,4
+31,49,Femenino,New Rebeccamouth,103
+34,34,Femenino,East Carrieborough,14
+35,44,Femenino,Kelliborough,468
+36,32,Femenino,Lake James,443
+37,21,Masculino,South Katrina,290
+38,64,Masculino,Wilsonview,41
+39,51,Femenino,Mooreland,446
+40,27,Masculino,Port Brendaberg,5
+41,38,Femenino,East David,461
+42,63,Masculino,Angelatown,184
+43,35,Masculino,Houseburgh,100
+44,64,Masculino,Butlerstad,178
+45,35,Masculino,Gutierrezberg,340
+46,48,Femenino,Andrealand,331
+47,31,Masculino,Singletontown,194
+48,26,Masculino,South Marcia,399
+49,23,Femenino,Angelaborough,141
+50,62,Masculino,West Markberg,454
+51,64,Femenino,New Mikemouth,217
+52,63,Femenino,West Joseph,368
+53,69,Masculino,Nelsonmouth,291
+54,55,Femenino,Port Davidborough,63
+55,18,Femenino,West Jamesfurt,20
+56,45,Femenino,Lake Michaelmouth,400
+57,35,Masculino,Jenniferbury,264
+58,19,Femenino,East John,256
+59,40,Masculino,West Megan,346
+60,44,Masculino,Vegaland,217
+62,63,Femenino,Nunezborough,286
+63,51,Femenino,Stephanieborough,144
+64,38,Masculino,Andrewmouth,145
+65,59,Femenino,Jessicafort,354
+66,34,Masculino,Port Marcus,147
+67,23,Femenino,Port Charles,325
+68,64,Masculino,Lake Wanda,231
+69,41,Femenino,Joshuafurt,343
+70,33,Femenino,Jacobsonmouth,122
+71,21,Masculino,Hernandezview,498
+72,52,Femenino,Patriciaburgh,230
+73,20,Masculino,Lake Maryhaven,7
+74,48,Femenino,Jacobview,275
+75,41,Femenino,Nicoleborough,290
+76,37,Femenino,Jodifort,411
+77,70,Femenino,Aaronburgh,472
+78,68,Femenino,Rothhaven,495
+79,61,Masculino,West Johnland,61
+80,56,Femenino,Wilsonfurt,229
+81,23,Masculino,Marktown,252
+82,67,Masculino,South Kevinside,313
+83,50,Femenino,Davidsonburgh,417
+84,68,Masculino,Michelleview,23
+85,52,Femenino,Webermouth,250
+86,68,Masculino,Nathanland,344
+87,57,Femenino,New Maryville,9
+88,31,Femenino,North Kevin,160
+89,31,Masculino,South Dale,113
+90,58,Femenino,Perkinsbury,317
+91,31,Femenino,Racheltown,7
+92,52,Femenino,North Beverly,106
+93,46,Masculino,Sonyabury,226
+95,43,Masculino,East Sonyatown,457
+96,60,Femenino,Markside,111
+97,68,Femenino,Lake Tylerburgh,290
+98,38,Femenino,East Oliviamouth,2
+99,65,Masculino,New April,207
+100,31,Femenino,Davishaven,322
+101,21,Femenino,Blanchardfurt,199
+102,34,Masculino,Edwardsview,307
+103,70,Masculino,Lake Stephenborough,499
+104,57,Femenino,Pamelamouth,103
+105,31,Masculino,New Adam,434
+106,66,Femenino,Lake Lisaburgh,348
+107,23,Femenino,West Valerie,24
+108,54,Masculino,South Coreyborough,368
+109,34,Femenino,Byrdborough,149
+110,37,Masculino,East Daniel,339
+111,42,Femenino,New Kenneth,17
+112,62,Masculino,New Selenafort,263
+113,66,Masculino,North Benjamin,367
+114,50,Masculino,Hansonmouth,323
+115,19,Masculino,Scottstad,166
+116,70,Masculino,West Stephanie,164
+117,31,Masculino,Katherineton,33
+118,34,Masculino,Valenciatown,183
+120,67,Masculino,Smithhaven,296
+121,48,Masculino,Cameronborough,126
+122,40,Femenino,East Michaelport,297
+123,34,Femenino,Parkerview,337
+124,20,Masculino,Tuckerburgh,23
+125,27,Femenino,Port Rachaelfort,120
+126,57,Femenino,Lake Aprilburgh,285
+127,40,Masculino,East Robertville,26
+128,56,Masculino,Smithtown,368
+129,39,Femenino,Markfurt,411
+130,49,Femenino,North Lauren,40
+131,48,Masculino,Lake Deborahshire,24
+132,31,Masculino,Harriston,181
+133,38,Femenino,Rachaelstad,452
+134,23,Masculino,North Amy,368
+135,55,Femenino,Hernandezchester,383
+136,51,Masculino,New Robertberg,62
+137,23,Masculino,Michaelbury,460
+138,61,Masculino,Carterton,348
+139,39,Masculino,Fordbury,154
+140,31,Femenino,South Christophermouth,288
+141,55,Masculino,North Randy,171
+142,19,Masculino,Port Audreymouth,110
+143,70,Femenino,New Sarah,186
+144,51,Masculino,Lake Charles,286
+145,62,Femenino,Shawnberg,338
+146,68,Masculino,Michaeltown,98
+147,35,Masculino,North Cassidyview,486
+149,35,Masculino,Jamiechester,412
+150,36,Femenino,East Barbara,371
